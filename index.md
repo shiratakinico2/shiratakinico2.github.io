@@ -1,4 +1,6 @@
-## しらたき Shirataki Portfolio
+layout: post
+title: しらたき Shirataki Portfolio
+---
 
 ### Profile
 
@@ -7,7 +9,7 @@
 ### お問い合わせ方法
 
 下記フォームからご連絡ください。
-https://docs.google.com/forms/d/e/1FAIpQLSe49Y-PHgiDIQpxfzCejDo-P5KjwKkxuiO34Hc_1uHE5z_khg/viewform?usp=sf_link
+(フォーム)[https://docs.google.com/forms/d/e/1FAIpQLSe49Y-PHgiDIQpxfzCejDo-P5KjwKkxuiO34Hc_1uHE5z_khg/viewform?usp=sf_link]
 
 ### Portfolio
 
@@ -18,14 +20,14 @@ Youtube live、Twitch、OPENRECなどの配信サイト向けのソフトウェ�
 
 #### 技術ブログ
 
-http://www.shirataki3.com/
+(http://www.shirataki3.com/)[http://www.shirataki3.com/]
 
 #### Consulting / コンサルティング
 - ゲーミング関連スタートアップ企業 事業立ち上げコンサルティング（内容非公開）
 
 #### Software Development / ソフトウェア開発
 - Windows向けTwitch配信通知ソフト「Twitchfy」 / Win32 Application
-- 棒読みちゃん – Limechat連携スクリプト with Twitch配信者向けカスタマイズ / Limechat2向けJava Script https://github.com/shiratakinico2/BouyomichanWithLimechatScriptForTwitch
+- 棒読みちゃん – Limechat連携スクリプト with Twitch配信者向けカスタマイズ / Limechat2向けJava Script (https://github.com/shiratakinico2/BouyomichanWithLimechatScriptForTwitch)[https://github.com/shiratakinico2/BouyomichanWithLimechatScriptForTwitch]
 - Twitchチャット向けおみくじツール / PHP
 - Youtube Live向け棒読みちゃん連携スクリプト（一部配信者へ先行公開中）/ HTML Application
 - Youtube Live向け視聴者ファンディング集計スクリプト（一部配信者へ先行公開中）/ HTML Application
@@ -33,8 +35,8 @@ http://www.shirataki3.com/
 - [開発中止] Twitchコメントビューワ「EnergyFiller」/ Win32 Application
 
 #### Management / マネジメント
-- Maya Melpharia 関連広報活動 （SNS・広報サイト運営）http://info.melpharia.com
-- Maya Melpharia公式グッズショップ運営 https://store.melpharia.com
+- Maya Melpharia 関連広報活動 （SNS・広報サイト運営）(http://info.melpharia.com)[http://info.melpharia.com]
+- Maya Melpharia公式グッズショップ運営 (https://store.melpharia.com) [https://store.melpharia.com]
 - Streaming Moderator / 配信モデレータ
   - Youtube Live
     - Maya Melpharia氏（プロゲーミングチーム 父の背中所属）
@@ -54,13 +56,14 @@ http://www.shirataki3.com/
       - けんき氏（プロゲーミングチーム 父の背中所属）
 
 #### Blog / ニュースサイト運営
-- 少女漫画ニュースサイト「ふきだしパレット」 https://fukidashi-palettes.net/
-- ゲーム配信関連ブログ「fpstps」http://fpstps.net/
+- ゲーム配信関連ブログ「fpstps」(http://fpstps.net/)[http://fpstps.net/]
 
 ### いただいたイラスト
 
-玉屋さん
+イラストありがとうございます
+
+- 玉屋さん<br />
 <img src="img/illust.jpg" width="300">
 
-伊逹いたちさん - しらたきマン
+- 伊逹いたちさん - しらたきマン<br />
 <img src="img/8gaiHbea-600x600.jpg" width="300">
