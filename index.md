@@ -1,5 +1,4 @@
 ---
-layout: post
 title: しらたき Shirataki Portfolio
 ---
 
