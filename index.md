@@ -13,6 +13,7 @@ title: Shirataki (しらたき)
 ### お問い合わせ方法
 
 下記フォームからご連絡ください。
+
 [フォーム](https://docs.google.com/forms/d/e/1FAIpQLSe49Y-PHgiDIQpxfzCejDo-P5KjwKkxuiO34Hc_1uHE5z_khg/viewform?usp=sf_link)
 
 ### Portfolio
